@@ -1,3 +1,4 @@
+### Analisis data
 ## Instalar FastQC
 1. Ir a https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
    - Darle Download Now
@@ -9,5 +10,8 @@
    - ls
    - cd FastQC
    - chmod 777 fastqc
-   - fastqc
-   
+   - fastqc *.fasta.gz
+2. Si tiene buena calidad continuamos , sino hay que hacer una limpieza de los datos
+## Instalar trimomatic 
+- conda install -c bioconda trimmomatic
+- trimmomatic
