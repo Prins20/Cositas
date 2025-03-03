@@ -15,3 +15,4 @@
 ## Instalar trimomatic 
 - conda install -c bioconda trimmomatic
 - trimmomatic
+- 
