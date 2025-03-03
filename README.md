@@ -4,7 +4,7 @@
    - cp archivo_R2.fastq.gz /home/prince/enterovirus/carpeta_donde_copia_archivo
      
 3. eliminar un archivo
-   rm nombre_del_archivo.fasta 
+   - rm nombre_del_archivo.fasta 
 
 
 ### Analisis data
