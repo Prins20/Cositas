@@ -1,3 +1,12 @@
+
+###Comanditos utiles
+1. copiar un archivo de un directorio a otro
+   ejemplo
+   - cp archivo_R2.fastq.gz /home/prince/enterovirus/carpeta_donde_copia_archivo
+2. eliminar un archivo
+   rm nombre_del_archivo.fasta 
+
+
 ### Analisis data
 ## Instalar FastQC
 1. Ir a https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
