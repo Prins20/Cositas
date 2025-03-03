@@ -1,5 +1,5 @@
 
-###Comanditos utiles
+### Comanditos utiles
 1. copiar un archivo de un directorio a otro
    ejemplo
    - cp archivo_R2.fastq.gz /home/prince/enterovirus/carpeta_donde_copia_archivo
