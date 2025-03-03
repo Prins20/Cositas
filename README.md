@@ -1,9 +1,9 @@
 
 ### Comanditos utiles
 1. copiar un archivo de un directorio a otro
-   ejemplo
    - cp archivo_R2.fastq.gz /home/prince/enterovirus/carpeta_donde_copia_archivo
-2. eliminar un archivo
+     
+3. eliminar un archivo
    rm nombre_del_archivo.fasta 
 
 
