@@ -6,6 +6,8 @@
    - rm nombre_del_archivo.fasta
 3. Contar el número de secuencias (lecturas) en un archivo FASTQ comprimido.
    - zcat xxxxxx_R1.fastq.gz | grep "^@" | wc -l
+4. eliminar los archivos de un directorio
+   - rm -rf * 
 
 
 ### Analisis data
