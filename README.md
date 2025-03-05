@@ -1,3 +1,5 @@
+### Contar el número de secuencias (lecturas) en un archivo FASTQ comprimido.
+zcat xxxxxx_R1.fastq.gz | grep "^@" | wc -l
 
 ### Comanditos utiles
 1. copiar un archivo de un directorio a otro
