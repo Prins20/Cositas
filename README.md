@@ -22,7 +22,7 @@
    - ls
    - cd FastQC
    - chmod 777 fastqc
-   - fastqc *.fasta.gz
+   - fastqc *.fastq.gz
 2. Si tiene buena calidad continuamos , sino hay que hacer una limpieza de los datos
 ## Instalar trimomatic 
 - conda install -c bioconda trimmomatic
