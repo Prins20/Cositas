@@ -1,6 +1,3 @@
-### Contar el número de secuencias (lecturas) en un archivo FASTQ comprimido.
-zcat xxxxxx_R1.fastq.gz | grep "^@" | wc -l
-
 ### Comanditos utiles
 1. copiar un archivo de un directorio a otro
    - cp archivo_R2.fastq.gz /home/prince/enterovirus/carpeta_donde_copia_archivo
