@@ -8,6 +8,8 @@
    - zcat xxxxxx_R1.fastq.gz | grep "^@" | wc -l
 4. eliminar los archivos de un directorio
    - rm -rf * 
+5. Traer el archivo que necsito de donde este a qui
+cp /ruta desde home/carpeta/archivo.fa .
 
 
 ### Analisis data
